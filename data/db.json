@@ -1,0 +1,72 @@
+{
+    "product":
+    [
+        {
+            "id":1,
+            "name": "Ceramic Planter",
+            "category": "Pottery",
+            "price": "$299.00",
+            "picture_url": "https://websitedemos.net/ceramic-products-store-04/wp-content/uploads/sites/1413/2024/02/ceramic-planter-01-300x300.jpg"
+          },
+          {
+             "id":2,
+            "name": "Ceramic Plates",
+            "category": "Ceramic",
+            "price": "$1990",
+            "picture_url": "https://websitedemos.net/ceramic-products-store-04/wp-content/uploads/sites/1413/2023/10/product-01-300x300.jpg"
+          },
+          {
+            "id":3,
+            "name": "Ceramic Cup",
+            "category":"Ceramic",
+            "price": "$189.00",
+            "picture_url": "https://websitedemos.net/ceramic-products-store-04/wp-content/uploads/sites/1413/2024/02/ceramic-cup-01-300x300.jpg"
+          },
+          {
+            "id":4,
+            "name": "Ceramic Bottles",
+            "category": "Pottery",
+            "price": "$249.00",
+            "picture_url": "https://websitedemos.net/ceramic-products-store-04/wp-content/uploads/sites/1413/2023/10/product-09-300x300.jpg"
+          },
+          {
+            "id":5,
+            "name": "Ceramic Drink Coasters",
+            "category": "Ceramic",
+            "price": "$99.00",
+            "picture_url": "https://websitedemos.net/ceramic-products-store-04/wp-content/uploads/sites/1413/2023/10/product-03-300x300.jpg"
+          },
+        
+          {
+            "id":6,
+            "name": "Ceramic Plates",
+            "category": "Ceramic",
+            "price": "$1990",
+            "picture_url": "https://websitedemos.net/ceramic-products-store-04/wp-content/uploads/sites/1413/2023/10/product-01-300x300.jpg"
+          },
+          {
+            "id":7,
+            "name": "Ceramic Pot",
+            "category":"Ceramic",
+            "price": "$189.00",
+            "picture_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrFpSeycK5YC6QlHlBdDNpeefsdWzOUZW9vw&s"
+          },
+          {
+            "id":8,
+            "name": "Ceramic Bottles",
+            "category": "Pottery",
+            "price": "$249.00",
+            "picture_url": "https://websitedemos.net/ceramic-products-store-04/wp-content/uploads/sites/1413/2023/10/product-09-300x300.jpg"
+          },
+          {
+            "id":9,
+            "name": "Ceramic Planter",
+            "category": "Pottery",
+            "price": "$299.00",
+            "picture_url": "https://websitedemos.net/ceramic-products-store-04/wp-content/uploads/sites/1413/2024/02/ceramic-planter-01-300x300.jpg"
+          }
+          
+    ]
+    
+    
+}

@@ -1,0 +1,22 @@
+#div{
+  float: left;
+  margin: 20px;
+  border: solid 2px white;
+  border-top-left-radius: 20px;
+
+}
+#h1{
+  color: rgb(14, 54, 34);
+  font-style: italic;
+  text-shadow:2px 2px 2px 2px grey ;
+}
+
+#button{
+  margin-right: 3px;
+  box-shadow: 1px 1px 1px 1px grey;
+
+}
+#button:hover{
+  background-color: rgb(81, 146, 81);
+}
+
